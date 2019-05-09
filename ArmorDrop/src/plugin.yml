@@ -1,0 +1,7 @@
+name: ArmorDrop
+version: 1.0
+main: me.Viscar.ArmorDrop.Main
+description: Creates a set chance for armor to drop and a max amount of armor droppable per death
+commands:
+     armordrop:
+          description: test command
